@@ -1,6 +1,6 @@
 # Understanding my Windows Operating System and Files 
 
-![Screenshot of Windows 11 OS 2024]([operating systems/Windows/WindowsOS2024.png](https://github.com/alexisbernt/alexisbernt/blob/main/operating%20systems/Windows/WindowsOS2024.png))
+![operating systems/Windows/WindowsOS2024.png](https://github.com/alexisbernt/alexisbernt/blob/main/operating%20systems/Windows/WindowsOS2024.png)
 
 GOG Games = Digital distribution platform for video games and films. I did not need this folder so I deleted it. 
 
