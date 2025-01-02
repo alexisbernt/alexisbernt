@@ -1,0 +1,36 @@
+.App-header {
+    background-color: brightgreen;
+    color: white;
+    padding: 20px;
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  .App-body {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .nav-button {
+    background-color: lightblue;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .nav-button:hover {
+    background-color: deepskyblue;
+  }
+  
+  .Page {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .Page h1 {
+    color: darkslategray;
+  }
