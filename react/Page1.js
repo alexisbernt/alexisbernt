@@ -5,7 +5,7 @@ import "./App.css";
 function Page1() {
   return (
     <div className="Page">
-      <h1>Welcome to Page 1</h1>
+      <h1>Employee Portal</h1>
       <Link to="/">
         <button className="nav-button">Go Back to Home</button>
       </Link>

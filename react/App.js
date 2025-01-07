@@ -8,10 +8,10 @@ function App() {
       <header className="App-header">Bright Green Header</header>
       <div className="App-body">
         <Link to="/page1">
-          <button className="nav-button">Go to Page 1</button>
+          <button className="nav-button">Employee Portal</button>
         </Link>
         <Link to="/page2">
-          <button className="nav-button">Go to Page 2</button>
+          <button className="nav-button">Patient Portal</button>
         </Link>
       </div>
     </div>
