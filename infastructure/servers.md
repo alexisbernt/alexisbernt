@@ -1,6 +1,6 @@
 # Servers
 
-##DNS Server
+## DNS Server
 Def DNS Server: The Domain Name System (DNS) Server is a server that is specifically used for matching website hostnames (like lexiscyberclub.com) to their corresponding Internet Protocol or IP addresses. 
 The DNS server contains a database of public IP addresses and their corresponding domain names.
 
