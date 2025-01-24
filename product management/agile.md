@@ -15,4 +15,6 @@
 11. Self-organizing teams
 12. Regular adaptation to changing circumstance 
 
+## Parts of Agile 
+### Def The sprint 
 A sprint is a small period of time where you have an assigned task that you have to get the task done within that amount of time. 
