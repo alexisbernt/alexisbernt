@@ -1,5 +1,8 @@
 # Servers
 
+## What does a server do?
+A server is a hardware device or software that processes requests sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The computer system that accepts requests for online files and transmits those files to the client is referred to as a “server”
+
 ## DNS Server
 Def DNS Server: The Domain Name System (DNS) Server is a server that is specifically used for matching website hostnames (like lexiscyberclub.com) to their corresponding Internet Protocol or IP addresses. 
 The DNS server contains a database of public IP addresses and their corresponding domain names.
