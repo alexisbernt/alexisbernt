@@ -25,6 +25,11 @@
       </tr>
     </table>
 
+    <div style="color: green;">
+      <b>This is the first div</b>
+      <b> This is the second div</b>
+    </div>
+
     <h1> style = "color:blue; background-color:grey;">First Heading</h1> <!-- // style determines how you get things to look a certain way in HTML -->
     <h2>Second Heading</h2>
     <h3>Third Heading</h3>
