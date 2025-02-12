@@ -1,7 +1,30 @@
 <!DOCTYPE html> <!-- each html file is going to start with this declaration -->
 
 <html>
+<head>
+  <title>My page</title> <!-- Title of the page that will show -->
+  <link rel= "icon" href="https://www.google.com/search?sca_esv=c8c50fbbd33c26eb&rlz=1C1">
+
+</head>
   <body>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Class</th>
+      </tr>
+      <tr>
+        <td> User A </td>
+        <td> 123 </td>
+        <td> Senior A </td>
+      </tr>
+      <tr>
+        <td> User B </td>
+        <td> 32 </td>
+        <td> Junior B </td>
+      </tr>
+    </table>
+
     <h1> style = "color:blue; background-color:grey;">First Heading</h1> <!-- // style determines how you get things to look a certain way in HTML -->
     <h2>Second Heading</h2>
     <h3>Third Heading</h3>
