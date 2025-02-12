@@ -1,0 +1,38 @@
+<!DOCTYPE html> <!-- each html file is going to start with this declaration -->
+
+<html>
+  <body>
+    <h1> style = "color:blue; background-color:grey;">First Heading</h1> <!-- // style determines how you get things to look a certain way in HTML -->
+    <h2>Second Heading</h2>
+    <h3>Third Heading</h3>
+
+    <p>
+      This is a tester paragraph <br> After the 'br' tag you create a new line
+    </p>
+
+    <pre>
+      This is content within a 'pre' tag. 
+      Pre tags write exactly as you do in your code. 
+    </pre>
+
+    <hr> 
+    Making a line within the code
+    <hr>
+    Making another line
+    <hr>
+
+    <a href="https://goblin.tools/" target="_blank"> Click this link </a>
+    <!-- target= "_blank" is used to open a new time --> 
+    <! -- You can go to a relative site by adding '/' at the beginning of your href and then the page it leads to --> 
+
+    <!-- To compose an email to a outside site / email use: href="mailto:sample@sample.com" -->
+
+    <em>Emphasized</em>
+    <i>Italic</i>
+    <strong>Strong text</strong> 
+    Mark this <mark>Marked</mark> // marking important information
+    <ins>Inserted</ins>
+    <small>This is small text</small>
+    
+  </body>
+</html>
