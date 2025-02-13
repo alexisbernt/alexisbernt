@@ -38,6 +38,25 @@
       This is a tester paragraph <br> After the 'br' tag you create a new line
     </p>
 
+    <form>
+      <label for="username">Name:</label>
+      <br>
+      <input type="text" name="username" id="username">
+      <br>
+      <input type="checkbox" >
+    </form>
+
+    <!-- This would be a form for submitting -->
+    <form>
+      <label for="username">Choice A </label>
+      <input type="radio" name="username" id="username" value="choiceA">
+      <br>
+      <label for="username2">Choice B </label>
+      <input type="radio" name="username2" id="username2" value="choiceB">
+      <br>
+      <input type="submit" value="Choose">
+    </form>
+
     <pre>
       This is content within a 'pre' tag. 
       Pre tags write exactly as you do in your code. 
