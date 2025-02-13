@@ -1,0 +1,13 @@
+Learning css programming.
+Your file must have a .css extension to it.
+
+To connect the css file to the html file you are going to use an element called link.
+The html link code: "<link rel="stylesheet" href="style.css"> // now anything coded in the style.css file will be linked to that html file.
+
+/* # Now for the CSS CODE: */
+
+body { /* anything that you do in body will then impact the html file */
+  height: 100%;
+  width: 100%;
+  background-color: green;
+}
