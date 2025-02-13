@@ -47,7 +47,7 @@
     </form>
 
     <!-- This would be a form for submitting -->
-    <form>
+    <form action="form.html" method="GET"> <!-- GET requests data from a specified source. POST sends data to a server to create/update a resource. -->
       <label for="username">Choice A </label>
       <input type="radio" name="username" id="username" value="choiceA">
       <br>
