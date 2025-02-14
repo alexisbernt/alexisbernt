@@ -11,6 +11,7 @@ body { /* anything that you do in body will then impact the html file */
   width: 100%;
   background-color: green;
 }
+________________________________________________________
 
 /* SELECTORS */ 
 Selectors connect html to css. 
@@ -20,3 +21,29 @@ Ex:
 #element_name {
   background-color: green; 
 }
+
+/* ELEMENTS and CLASSES */
+  The html code: <h1 class="heading">Name of Page
+  The css code: 
+    h1.heading {
+      color: blue;
+    }
+
+/* The "*" sign means "the universal selector" */ 
+* {
+  color: purple;
+}
+
+____________________________________________________
+/* WORKING WITH THE BACKGROUND */
+body {
+  background-color: mediumslateblue; 
+  opacity: 0.4
+  background-image: url("url of the image . jpg") 
+}
+
+/* selecting the specific portions / sections of the HTML code to alter */
+h1, p {
+  color: white;
+}
+        
