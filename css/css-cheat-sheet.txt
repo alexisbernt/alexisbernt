@@ -11,3 +11,12 @@ body { /* anything that you do in body will then impact the html file */
   width: 100%;
   background-color: green;
 }
+
+/* SELECTORS */ 
+Selectors connect html to css. 
+1. Create an id (ex: id="element_name") in your html code
+2. Write the id
+Ex:
+#element_name {
+  background-color: green; 
+}
