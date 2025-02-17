@@ -2,6 +2,8 @@
 
 API stands for Application Programming Interface. 
 
+An API is a way for two or more computer programs to communicate with eachother. 
+
 APIs let different softwares, applications, and websites communicate with oneanother.
 
 APIs allow us to share information. For example, when a weather app shows today’s forecast, it’s using an API to get that data from another website instead of making it itself.
