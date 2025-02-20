@@ -20,6 +20,8 @@ The DNS server contains a database of public IP addresses and their correspondin
 
 Maps human readable host names to the IP Address that hosts that site. 
 
+![image](https://github.com/user-attachments/assets/b47c0ba4-7d79-437f-9ca1-7a8f4f018d6c)
+
 DNS Recursive Resolver - makes multiple requests to other servers. Starts with the root name server.
 Root server will respond with the address of a top level domain DNS server which stores data about top level domains (like .com or .io or .site).
 The resolver (Recursive Resolver) then makes a request to the TLD Server which will respond with the IP Address of the Authoritative name server. This will contain the requested website's IP address. 
