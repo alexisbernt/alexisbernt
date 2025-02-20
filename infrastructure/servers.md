@@ -2,8 +2,18 @@
 
 ## What does a server do?
 ### Def Server = A computer or device that provides functionality for other devices or clients. 
+Usually a server serves multiple devices. In organizations, they tend to use one server for data storage, one for website, etc.. But servers can serve many computers.
+Servers allow you (1) control, (2) distribution, (3) protection of information. 
 A server is a hardware device or software that processes requests sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The computer system that accepts requests for online files and transmits those files to the client is referred to as a “server”
+Two types of servers: (1) Physical Server (2) Virtual Server 
 
+# Types of Servers 
+
+## Web Server
+Runs the web server software (like HTTP and NGINX). Contains all website data (HTML and graphics).
+A database server that hosts data in the back-end.
+## Email Server
+What facilitates the sending and receiving of email. 
 ## DNS Server
 Def DNS Server: The Domain Name System (DNS) Server is a server that is specifically used for matching website hostnames (like lexiscyberclub.com) to their corresponding Internet Protocol or IP addresses. 
 The DNS server contains a database of public IP addresses and their corresponding domain names.
