@@ -1,6 +1,7 @@
 # Servers
 
 ## What does a server do?
+### Def Server = A computer or device that provides functionality for other devices or clients. 
 A server is a hardware device or software that processes requests sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The computer system that accepts requests for online files and transmits those files to the client is referred to as a “server”
 
 ## DNS Server
