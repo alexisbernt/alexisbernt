@@ -42,4 +42,6 @@ DNS provider can help you connect domain name to the IP address.
 
 Then you get a Connect Button which gives you the commands to connect to the instance.
 
-You then have to secure shell into the instance. (at 13.02)
+You then have to secure shell into the instance. Then open up command prompt inside of the directory (structure that organizes files and resources on a computer) as the key for access. Then SSH into the server. Update.
+
+Nginx is used for many things (serving web files - like html files). Makes it super easy and fast to set up a website.
