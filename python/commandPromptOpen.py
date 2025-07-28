@@ -3,7 +3,8 @@ import subprocess
 
 def open_cmd():
     try:
-        # This works on Windows to open a new command prompt window
+        # subprocess is a library that lets your Python script run
+        # system-level commands, just like if you typed them into the terminal or command prompt.
         subprocess.Popen("start", shell=True)
         print("Command Prompt opened.")
     except Exception as e:
